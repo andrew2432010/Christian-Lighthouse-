@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+}
+#daily-verse {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

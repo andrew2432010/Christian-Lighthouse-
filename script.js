@@ -1,0 +1,1 @@
+document.getElementById("verse").innerText = "For God so loved the world, that he gave his only Son... (John 3:16)";
